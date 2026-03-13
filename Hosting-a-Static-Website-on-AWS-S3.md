@@ -10,6 +10,7 @@
 - Static website files ready for upload
 
 ---
+` 
 
 ## **🔰 STEP 1: Sign in to AWS Console**
 
@@ -326,3 +327,4 @@ http://aws-bucket-static-web-kishore.s3-website.ap-south-1.amazonaws.com
 
 
 *This completes the detailed step-by-step implementation of hosting a static website on AWS S3.* 🚀
+
